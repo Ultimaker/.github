@@ -1,6 +1,6 @@
 # UltiMaker
 
-### Top Cloud and Digital Factory Repos
+### Top Cloud and Digital Factory Repositories
 
 <table width="100%" border="0">
   <tr>
